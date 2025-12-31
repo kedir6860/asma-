@@ -1,0 +1,5 @@
+{
+  "name": "DHIS2 Ethiopia Portal",
+  "description": "A comprehensive Health Management Information System (HMIS) inspired by the DHIS2 V2.30 manual for the Federal Ministry of Health, Ethiopia. Features include data entry, visual analytics, scorecards, and AI-driven health data insights.",
+  "requestFramePermissions": []
+}
